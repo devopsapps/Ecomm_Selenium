@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Ecommerce test run" duration-ms="0" started-at="2017-12-05T14:38:32Z" finished-at="2017-12-05T14:38:32Z">
+    <groups>
+    </groups>
+    <test name="Place Order" duration-ms="0" started-at="2017-12-05T14:38:32Z" finished-at="2017-12-05T14:38:32Z">
+    </test> <!-- Place Order -->
+  </suite> <!-- Ecommerce test run -->
+</testng-results>
